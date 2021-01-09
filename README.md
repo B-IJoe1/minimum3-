@@ -1,5 +1,22 @@
 # minimum3-
 
+
+
+//This public method is used to invoke the static method UserInput()
+	
+	public class ExFinal {
+
+	public static void main(String[] args) {
+
+		Ex_Q1 A1=new Ex_Q1();
+		A1.UserInput();
+	}
+
+	
+}
+////////////////////////////////////////////////
+
+
     public static void UserInput()
 	{
 		Scanner input=new Scanner(System.in);
