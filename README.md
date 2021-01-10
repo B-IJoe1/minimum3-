@@ -1,9 +1,9 @@
 # minimum3-
 
-
-
 //This public method is used to invoke the static method UserInput()
 	
+	package lab02;
+
 	public class ExFinal {
 
 	public static void main(String[] args) {
